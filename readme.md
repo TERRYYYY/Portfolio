@@ -1,6 +1,6 @@
 # {Application Name} TERRY'S POV
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+#### {My project},
+
 ## Description
 {My webpage has the home section, aboutme section, gallery section, projects section . }
 
@@ -8,6 +8,8 @@
 * clone the git hub url into your machine
 * then you can access the files
 * Enjoy!
+
+link:http://127.0.0.1:5500/kariuki.html
 
 MIT License
 
