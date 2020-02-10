@@ -9,7 +9,7 @@
 * then you can access the files
 * Enjoy!
 
-[myportfolio:] (http://127.0.0.1:5500/index.html)
+[terryyyy:] (http://127.0.0.1:5500/index.html)
 
 MIT License
 
